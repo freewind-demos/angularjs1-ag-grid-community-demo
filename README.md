@@ -1,13 +1,8 @@
-AngularJS1 Hello World Demo
+AngularJS1 AgGrid Demo
 ===========================
 
-[AngularJS1](https://angularjs.org/) is not dead yet.
-
+Use [AgGrid](https://www.ag-grid.com/best-angularjs-data-grid/) to show data.
 ```
 npm install
-open index.html
+npm run demo
 ```
-
-Type your name in the text field, and see the changes.
-
-![demo](./images/demo.jpg)

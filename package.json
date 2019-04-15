@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "demo": "open index.html"
+  },
   "dependencies": {
+    "ag-grid-community": "20.2.0",
     "angular": "1.7.7"
   }
 }
