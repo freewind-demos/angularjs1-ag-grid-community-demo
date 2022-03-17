@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "demo": "open index.html"
+    "start": "open index.html"
   },
   "dependencies": {
     "ag-grid-community": "20.2.0",
